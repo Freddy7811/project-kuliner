@@ -4,7 +4,7 @@
       <div class="container">
           <div class="row">
               <div class="col text-center">
-                  2022 Copyright
+                  2020 Copyright
               </div>
           </div>
       </div>

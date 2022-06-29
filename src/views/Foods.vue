@@ -67,7 +67,7 @@ export default {
     },
     searchFood() {
       axios
-      .get("http://localhost:3000/products?q="+this.search)
+      .get("https://my-json-server.typicode.com/Freddy7811/fake-api-kuliner/products?q="+this.search)
       .then((response) => this.setProducts(response.data))
       .catch((error) => console.log(error));
     }
